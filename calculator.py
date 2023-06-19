@@ -1,0 +1,7 @@
+x = input("Enter a number")
+x=int(x)
+y = input("enter a 2nd number")
+y = int(y)
+z=input("enter a 3rd number")
+z=int(z)
+print(x*y-z)
